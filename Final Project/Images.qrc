@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/cross.png</file>
+        <file>img/gutter.jpg</file>
+        <file>img/sun.png</file>
+        <file>img/neptune.jpg</file>
+        <file>img/test.gif</file>
+        <file>img/stars.png</file>
+        <file>img/reset.png</file>
+        <file>img/question.png</file>
+        <file>img/earth.jpg</file>
+        <file>img/clear.png</file>
+    </qresource>
+</RCC>
